@@ -5,8 +5,8 @@ This is a project template for [Svelte](https://svelte.dev) apps using [Tailwind
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
-npx degit Scotty0448/svelte-tailwindcss-rollup-template svelte-app
-cd svelte-app
+npx degit Scotty0448/svelte-tailwindcss-rollup-template app-name
+cd app-name
 ```
 
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
@@ -17,7 +17,7 @@ cd svelte-app
 Install the dependencies...
 
 ```bash
-cd svelte-app
+cd app-name
 npm install
 ```
 
