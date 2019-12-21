@@ -1,11 +1,11 @@
-# svelte-tailwindcss-template
+# svelte-tailwindcss-rollup-template
 
 This is a project template for [Svelte](https://svelte.dev) apps using [Tailwindcss](https://tailwindcss.com).
 
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
-npx degit Scotty0448/svelte-tailwindcss-template svelte-app
+npx degit Scotty0448/svelte-tailwindcss-rollup-template svelte-app
 cd svelte-app
 ```
 
